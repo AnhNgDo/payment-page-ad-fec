@@ -7,8 +7,8 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
-				'desktop-bg': "url('./src/lib/images/bg-main-desktop.png')",
-				'mobile-bg': "url('./src/lib/images/bg-main-mobile.png')"
+				'desktop-bg': "url('src/lib/images/bg-main-desktop.png')",
+				'mobile-bg': "url('src/lib/images/bg-main-mobile.png')"
 			}
 		}
 	},
