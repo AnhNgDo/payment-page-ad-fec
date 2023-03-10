@@ -8,3 +8,8 @@ Built using SvelteKit, powered by [`create-svelte`](https://github.com/sveltejs/
 - Responsive layout
 - Position Layout
 - Form conditional render
+
+## Images
+![](static/mobile.PNG)
+![](static/mobile_confirm.PNG)
+![](static/desktop.PNG)
